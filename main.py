@@ -2,6 +2,9 @@
 #by Chris Wensink
 # 2/1/2024
 
+#5 hour mini course by Joy of Coding by Emily Hill
+
+#Day 1
 print("Hello, World!")
 
 #Simple Blue triangle example
